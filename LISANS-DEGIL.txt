@@ -1,0 +1,9 @@
+Bu metin lisans degildir. Asansor de asansor degildir.
+Kodu istediginiz gibi kopyalayabilirsiniz, yeter ki yukari ciktigini iddia etmeyin.
+Sorumluluk reddi: yazilim sizi kata birakmaz, biraksa da yan katta birakir.
+
+DAMGA / IMZA
+Ciddi olan: MIT havasi, MIT kagidi yok.
+Ciddi olmayan: Muhur islak.
+Tarih: 02 Ekim 2026
+Isim: Kayyum Grok
